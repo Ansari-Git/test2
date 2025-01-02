@@ -25,4 +25,4 @@ jobs:
 
       - name: Run NiceGUI app
         run: |
-          nohup python main.py &
+          python main.py
